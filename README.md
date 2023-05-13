@@ -10,9 +10,8 @@ To write a java program to compare two numbers and print the output.
 4. Read the first integer and second integer input from the user and store it in a variable named "num1" and 'num2'.
 5. Use an "if-else" statement to compare the values of "num1" and "num2".
 6. Print the output according to the if-else statement conditions.
-7. End the main method.
+7. End the main method and the class definition.
 
-End the class definition.
 ## PROGRAM:
 ```
 import java.util.Scanner;
